@@ -1,0 +1,18 @@
+{
+  "name": "@jacksontian/merge_excel",
+  "version": "1.0.0",
+  "description": "Merge multiple excel files into one.",
+  "bin": {
+    "merge_excel": "bin/merge.mjs"
+  },
+  "type": "module",
+  "module": "./lib/merge.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jackson Tian",
+  "license": "MIT",
+  "dependencies": {
+    "node-xlsx": "^0.23.0"
+  }
+}
