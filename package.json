@@ -1,5 +1,5 @@
 {
-  "name": "@jacksontian/merge_excel",
+  "name": "@jacksontian/merge_excels",
   "version": "1.0.0",
   "description": "Merge multiple excel files into one.",
   "bin": {
