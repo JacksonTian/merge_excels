@@ -13,6 +13,6 @@
   "author": "Jackson Tian",
   "license": "MIT",
   "dependencies": {
-    "node-xlsx": "^0.23.0"
+    "node-xlsx": "^0.24.0"
   }
 }
